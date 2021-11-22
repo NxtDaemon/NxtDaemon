@@ -7,7 +7,7 @@ I run a Website [here](https://www.nxtdaemon.xyz) with hosted writeups and what 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center" color=#c36587 background-color=#332e39">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=nxtdaemon&count_private=true&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/username=NxtDaemon&count_private=true&show_icons=true&theme=dark&exclude_repo=DotFiles&langs_count=7" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxtDaemon&count_private=true&show_icons=true&theme=dark&exclude_repo=DotFiles&langs_count=7" />
 </a>
 
 
